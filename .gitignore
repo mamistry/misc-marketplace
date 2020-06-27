@@ -1,0 +1,8 @@
+# compiled output
+/dist
+/coverage
+/public
+/.lighthouseci
+
+# dependencies
+/node_modules
